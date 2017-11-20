@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#104e8b</color>
+    <color name="colorPrimaryDark">#104E8B</color>
+    <color name="colorAccent">#ff4081</color>
+    <color name="light_gray">#e0e0e0</color>
+    <color name="table_header_text">#CCFFFFFF</color>
+
+    <color name="table_data_row_even">#11C5CAE9</color>
+    <color name="table_data_row_odd">#33C5CAE9</color>
+</resources>
